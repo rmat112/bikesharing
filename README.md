@@ -4,7 +4,7 @@ Starting a new bike-sharing business in Des-Moines is under evaluation. For comp
 A few graphs and dashboards can help evaluate what to expect.
 # Results
 ## Task 1. 
-Pandas is used to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes. Once the datatype is changed, the DataFrame is exported as a CSV file to use for the visualizations in the next step. Here is a link to the pandas notebook: [NYC_CitiBike_Challenge.ipynb](https://github.com/rmat112/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
+Pandas is used to change the datatype of the "tripduration" column from an integer to a datetime datatype to get the time in hours and minutes. Once the datatype is changed, the DataFrame is exported as a CSV file to use for the visualizations in the next step. Here is a link to my pandas notebook: [NYC_CitiBike_Challenge.ipynb](https://github.com/rmat112/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb)
 ![pd1.png](https://github.com/rmat112/bikesharing/blob/main/images/pd1.png)
 
 ![pd2.png](https://github.com/rmat112/bikesharing/blob/main/images/pd2.png)
